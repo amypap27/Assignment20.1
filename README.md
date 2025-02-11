@@ -5,7 +5,7 @@
 **Amy Papandreou**
 
 #### Link to Jupyter Notebook
-Here is my Jupyter Notebook
+Here is my [Jupyter Notebook](Capstone.ipynb)
 
 #### Executive summary
 The goal of this project is to use available student data (including demographic data, socio-economic data, and prior academic performance) to predict whether students will ultimately graduate or drop out from their university program.
